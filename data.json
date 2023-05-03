@@ -1,0 +1,304 @@
+{
+    "services":[
+    {
+      "id": 1,
+      "name": "Afsar Uddin",
+      "bio": "Afsar Uddin is a renowned Bangladeshi chef who has over 20 years of experience in the culinary industry. He is known for his unique take on traditional Bangladeshi dishes, incorporating modern techniques and flavors to create new and exciting dishes.",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8b8pHJhG2B89U4qD6X1FSNewVfQzaGAkmaA&usqp=CAU",
+      "likes": 5000,
+      "recipe": 35,
+      "years_of_experience": 20,
+      "recipes": [
+        {
+          "recipe_id": 1,
+          "recipe_name": "Chicken Biryani",
+          "ingredients": [
+            "2 cups basmati rice",
+            "3 lbs chicken",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Cook the rice and set aside. 2. In a separate pan, cook the chicken with onions, ginger-garlic paste, and spices. 3. Layer the chicken and rice in a large pot and cook over low heat until the flavors meld together.",
+          "rating": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "recipe_name": "Masala Fried Chicken",
+          "ingredients": [
+            "2 lbs chicken",
+            "2 cups flour",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Marinate the chicken in yogurt and spices. 2. Coat the chicken in flour and deep fry until crispy. 3. Serve hot with your favorite sauce.",
+          "rating": 4.0
+        },
+        {
+          "recipe_id": 3,
+          "recipe_name": "Fish Curry",
+          "ingredients": [
+            "2 lbs fish",
+            "1 onion",
+            "2 tbsp ginger-garlic paste",
+            "1 cup tomato puree",
+            "1 cup coconut milk"
+          ],
+          "cooking_method": "1. Cook onions, ginger-garlic paste, and spices in a pan. 2. Add the fish and cook until it starts to flake. 3. Add tomato puree and coconut milk and simmer for a few minutes.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nahida Akter",
+      "bio": "Nahida Akter is a talented Bangladeshi chef who specializes in creating delicious and healthy dishes. She has a passion for using fresh, locally sourced ingredients to create meals that are both nutritious and flavorful.",
+      "picture": "https://d1oh9y2nmj4y5b.cloudfront.net/uploads/photo/filename/574/7_Nahid_foodResizedForWeb.jpg",
+      "likes": 3000,
+      "recipe": 25,
+      "years_of_experience": 10,
+      "recipes": [
+        {
+          "recipe_id": 1,
+          "recipe_name": "Chicken Biryani",
+          "ingredients": [
+            "2 cups basmati rice",
+            "3 lbs chicken",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Cook the rice and set aside. 2. In a separate pan, cook the chicken with onions, ginger-garlic paste, and spices. 3. Layer the chicken and rice in a large pot and cook over low heat until the flavors meld together.",
+          "rating": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "recipe_name": "Masala Fried Chicken",
+          "ingredients": [
+            "2 lbs chicken",
+            "2 cups flour",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Marinate the chicken in yogurt and spices. 2. Coat the chicken in flour and deep fry until crispy. 3. Serve hot with your favorite sauce.",
+          "rating": 4.0
+        },
+        {
+          "recipe_id": 3,
+          "recipe_name": "Fish Curry",
+          "ingredients": [
+            "2 lbs fish",
+            "1 onion",
+            "2 tbsp ginger-garlic paste",
+            "1 cup tomato puree",
+            "1 cup coconut milk"
+          ],
+          "cooking_method": "1. Cook onions, ginger-garlic paste, and spices in a pan. 2. Add the fish and cook until it starts to flake. 3. Add tomato puree and coconut milk and simmer for a few minutes.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kamal Ahmed",
+      "bio": "Kamal Ahmed is a highly skilled Bangladeshi chef who has worked in some of the most prestigious restaurants in the world. He is known for his attention to detail and his ability to create dishes that are both beautiful and delicious.",
+      "picture": "https://i2-prod.cambridge-news.co.uk/incoming/article20096098.ece/ALTERNATES/s1200c/0_Julal-Syed-from-Taj-Tandoori.jpg",
+      "likes": 7500,
+      "recipe": 45,
+      "years_of_experience": 25,
+      "recipes": [
+        {
+          "recipe_id": 1,
+          "recipe_name": "Chicken Biryani",
+          "ingredients": [
+            "2 cups basmati rice",
+            "3 lbs chicken",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Cook the rice and set aside. 2. In a separate pan, cook the chicken with onions, ginger-garlic paste, and spices. 3. Layer the chicken and rice in a large pot and cook over low heat until the flavors meld together.",
+          "rating": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "recipe_name": "Masala Fried Chicken",
+          "ingredients": [
+            "2 lbs chicken",
+            "2 cups flour",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Marinate the chicken in yogurt and spices. 2. Coat the chicken in flour and deep fry until crispy. 3. Serve hot with your favorite sauce.",
+          "rating": 4.0
+        },
+        {
+          "recipe_id": 3,
+          "recipe_name": "Fish Curry",
+          "ingredients": [
+            "2 lbs fish",
+            "1 onion",
+            "2 tbsp ginger-garlic paste",
+            "1 cup tomato puree",
+            "1 cup coconut milk"
+          ],
+          "cooking_method": "1. Cook onions, ginger-garlic paste, and spices in a pan. 2. Add the fish and cook until it starts to flake. 3. Add tomato puree and coconut milk and simmer for a few minutes.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Moumita Sarkar",
+      "bio": "Moumita Sarkar is a passionate Bangladeshi chef who has been cooking since she was a young girl. She is known for her ability to take simple ingredients and turn them into something truly special.",
+      "picture": "https://i.cbc.ca/1.5966481.1616797387!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/moumita-sarker.JPG",
+      "likes": 2000,
+      "recipe": 20,
+      "years_of_experience": 15,
+      "recipes": [
+        {
+          "recipe_id": 1,
+          "recipe_name": "Chicken Biryani",
+          "ingredients": [
+            "2 cups basmati rice",
+            "3 lbs chicken",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Cook the rice and set aside. 2. In a separate pan, cook the chicken with onions, ginger-garlic paste, and spices. 3. Layer the chicken and rice in a large pot and cook over low heat until the flavors meld together.",
+          "rating": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "recipe_name": "Masala Fried Chicken",
+          "ingredients": [
+            "2 lbs chicken",
+            "2 cups flour",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Marinate the chicken in yogurt and spices. 2. Coat the chicken in flour and deep fry until crispy. 3. Serve hot with your favorite sauce.",
+          "rating": 4.0
+        },
+        {
+          "recipe_id": 3,
+          "recipe_name": "Fish Curry",
+          "ingredients": [
+            "2 lbs fish",
+            "1 onion",
+            "2 tbsp ginger-garlic paste",
+            "1 cup tomato puree",
+            "1 cup coconut milk"
+          ],
+          "cooking_method": "1. Cook onions, ginger-garlic paste, and spices in a pan. 2. Add the fish and cook until it starts to flake. 3. Add tomato puree and coconut milk and simmer for a few minutes.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Abdul Mannan",
+      "bio": "Abdul Mannan is a creative Bangladeshi chef who is always experimenting with new flavors and ingredients. He is known for his innovative dishes that combine traditional Bangladeshi flavors with modern cooking techniques.",
+      "picture": "https://new-media.dhakatribune.com/en/uploads/watermarked/16679762312439/arrest-warrant-issued-for-celebrity-chef-tommy-miah-r172867.jpeg",
+      "likes": 4000,
+      "recipe": 30,
+      "years_of_experience": 18,
+      "recipes": [
+        {
+          "recipe_id": 1,
+          "recipe_name": "Chicken Biryani",
+          "ingredients": [
+            "2 cups basmati rice",
+            "3 lbs chicken",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Cook the rice and set aside. 2. In a separate pan, cook the chicken with onions, ginger-garlic paste, and spices. 3. Layer the chicken and rice in a large pot and cook over low heat until the flavors meld together.",
+          "rating": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "recipe_name": "Masala Fried Chicken",
+          "ingredients": [
+            "2 lbs chicken",
+            "2 cups flour",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Marinate the chicken in yogurt and spices. 2. Coat the chicken in flour and deep fry until crispy. 3. Serve hot with your favorite sauce.",
+          "rating": 4.0
+        },
+        {
+          "recipe_id": 3,
+          "recipe_name": "Fish Curry",
+          "ingredients": [
+            "2 lbs fish",
+            "1 onion",
+            "2 tbsp ginger-garlic paste",
+            "1 cup tomato puree",
+            "1 cup coconut milk"
+          ],
+          "cooking_method": "1. Cook onions, ginger-garlic paste, and spices in a pan. 2. Add the fish and cook until it starts to flake. 3. Add tomato puree and coconut milk and simmer for a few minutes.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Shelly Akter",
+      "bio": "Shelly Akter is a rising star in the Bangladeshi culinary scene. She is known for her fresh and flavorful dishes that are inspired by traditional Bangladeshi cuisine. Tasnim is passionate about using local ingredients and supporting local farmers.",
+      "picture": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/03/18/shelly-nuruzzaman-credit-bang-curry.jpg?width=1200",
+      "likes": 1000,
+      "recipe": 15,
+      "years_of_experience": 5,
+      "recipes": [
+        {
+          "recipe_id": 1,
+          "recipe_name": "Chicken Biryani",
+          "ingredients": [
+            "2 cups basmati rice",
+            "3 lbs chicken",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Cook the rice and set aside. 2. In a separate pan, cook the chicken with onions, ginger-garlic paste, and spices. 3. Layer the chicken and rice in a large pot and cook over low heat until the flavors meld together.",
+          "rating": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "recipe_name": "Masala Fried Chicken",
+          "ingredients": [
+            "2 lbs chicken",
+            "2 cups flour",
+            "1 cup yogurt",
+            "1 onion",
+            "2 tbsp ginger-garlic paste"
+          ],
+          "cooking_method": "1. Marinate the chicken in yogurt and spices. 2. Coat the chicken in flour and deep fry until crispy. 3. Serve hot with your favorite sauce.",
+          "rating": 4.0
+        },
+        {
+          "recipe_id": 3,
+          "recipe_name": "Fish Curry",
+          "ingredients": [
+            "2 lbs fish",
+            "1 onion",
+            "2 tbsp ginger-garlic paste",
+            "1 cup tomato puree",
+            "1 cup coconut milk"
+          ],
+          "cooking_method": "1. Cook onions, ginger-garlic paste, and spices in a pan. 2. Add the fish and cook until it starts to flake. 3. Add tomato puree and coconut milk and simmer for a few minutes.",
+          "rating": 4.2
+        }
+      ]
+    }
+  ]
+}
