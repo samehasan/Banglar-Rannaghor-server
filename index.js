@@ -8,7 +8,7 @@ app.use(cors());
 const allServices = require("./data.json");
 
 app.get("/", (req, res) => {
-  res.json({message:"Now server is running"});
+  res.json("server running");
 });
 
 app.get("/allData", (req, res) => {
